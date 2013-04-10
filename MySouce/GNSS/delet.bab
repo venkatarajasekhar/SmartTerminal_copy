@@ -1,0 +1,5 @@
+del GNSS.c
+del GNSS_IO.c
+del GNSS_Platform.c
+del GNSS_Terminal.c
+del JTT415_2006.c

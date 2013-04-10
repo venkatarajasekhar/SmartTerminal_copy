@@ -1,0 +1,4 @@
+del ttATcommand.c
+del CDMAHardware.c
+del MC323A.c
+del unicodetogb2312.c

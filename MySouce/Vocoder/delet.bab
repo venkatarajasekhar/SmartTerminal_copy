@@ -1,0 +1,8 @@
+del DecoderAPI.c
+del Record_drive.c
+del Sound_drive.c
+del TIM3.c
+del TIM8.c
+del VocoderCommon.c
+
+rd /q/s STM32F10x_Speex_Lib

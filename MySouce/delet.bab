@@ -1,0 +1,8 @@
+del APITemplate.c
+del board.c
+del calibration.c
+del CAN.c
+del Global.c
+del rtc.c
+del sdcard.c
+del UART1_new .c

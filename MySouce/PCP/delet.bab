@@ -1,0 +1,7 @@
+del Adscreen_drive.c
+del Camera_drvie.c
+del GPS_drive.c
+del LCD_drive.c
+del PCP.c
+del UART2.c
+del UART_Expand.c
